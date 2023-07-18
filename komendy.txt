@@ -1,0 +1,6 @@
+$ npm install --save-dev html-validate
+
+
+przykład komendy uruchamiającej html-validate 
+html-validate nazwa_pliku.html
+Zamiast "nazwa_pliku.html" podaj nazwę pliku, który chcesz zwalidować.
